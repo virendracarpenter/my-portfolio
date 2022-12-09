@@ -1,0 +1,141 @@
+{
+    "name_and_link": [
+        "Virendra Carpenter",
+        "https://github.com/virendracarpenter/"
+    ],
+    "designation": [
+        "CS Undergrad.",
+        "Software Developer."
+    ],
+    "resume_download_link": "",
+    "social_media": {
+        "1": [
+            "https://github.com/virendracarpenter/",
+            "github"
+        ],
+        "2": [
+            "https://leetcode.com/vcarp/",
+            "leetcode"
+        ],
+        "3": [
+            "https://linkedin.com/in/virendracarpenter/",
+            "linkedin"
+        ],
+        "4": [
+            "https://twitter.com/veecarpenter/",
+            "twitter"
+        ],
+        "5": [
+            "mailto:viren.28opensky@gmail.com",
+            "email"
+        ]
+    },
+    "contact_me": {
+        "location": "Indore, India",
+        "open_for_opportunities": "Yes",
+        "picture": "picture.jpg"
+    },
+    "about": "A Passionate Software Developer 🚀 | App & Web Developer 📝 | Open Source Enthusiast|",
+    "bio": "A Motivated student completing a computer science degree from Institute of Engineering and Science, IPS Academy with decent academic and practical exposure record. Well-organized and collaborative team player with strong communication and analytical abilities, dedicated to improving skills through hands-on learning and development work.",
+    "what_i_do": {
+        "tools": [
+            "linux.png",
+            "c.png",
+            "cpp.png",
+            "java.png",
+            "python.png",
+            "bash.png",
+            "git.png"
+        ],
+        "proficiency": [
+            "C/C++/Java/Python--90",
+            "Flutter--80",
+            "HTML5/CSS3/Bootstrap--90",
+            "PHP/JavaScript/ReactJs--75",
+            "MySQL/MongoDB--85"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "Institute of Engineering and Science, IPS Academy",
+            "location": "Indore",
+            "years": "2019 - 2023",
+            "description": "B.Tech in CSE",
+            "grades": "8.8 CGPA",
+            "logo": "iesips.png"
+        },
+        "2": {
+            "institute": "Open Sky Academy",
+            "location": "Hatpipliya",
+            "years": "2017 - 2019",
+            "description": "Physics, Chemistry, Mathematics, Computer Science",
+            "grades": "56%",
+            "logo": "osa.png"
+        },
+        "3": {
+            "institute": "Open Sky Academy",
+            "location": "Hatpipliya",
+            "years": "2016 - 2017",
+            "description": "Secondary Education",
+            "grades": "72%",
+            "logo": "osa.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "TEQIP",
+            "role": "Summer Internship Training Program",
+            "period": "May, 2020 - May, 2020",
+            "description": "In this program, I am undergone in the learning of Linux, AWS and DevOps.",
+            "image_name": "teqip.png"
+        },
+        "2": {
+            "name": "TEQIP",
+            "role": "Summer Internship Training Program",
+            "period": "May, 2020 - May, 2020",
+            "description": "In this program, I am undergone in the learning of Linux, AWS and DevOps.",
+            "image_name": "teqip.png"
+        },
+        "3": {
+            "name": "TEQIP",
+            "role": "Summer Internship Training Program",
+            "period": "May, 2020 - May, 2020",
+            "description": "In this program, I am undergone in the learning of Linux, AWS and DevOps.",
+            "image_name": "teqip.png"
+        }
+    },
+    "projects": {
+        "1": {
+            "name": "Demo",
+            "tech_stack_used": "Demo",
+            "description": "Demo",
+            "general_or_github_link": "Demo"
+        },
+        "2": {
+            "name": "Demo",
+            "tech_stack_used": "Demo",
+            "description": "Demo",
+            "general_or_github_link": "Demo"
+        },
+        "3": {
+            "name": "Demo",
+            "tech_stack_used": "Demo",
+            "description": "Demo",
+            "general_or_github_link": "Demo"
+        }
+    },
+    "achievements": {
+        "1": {
+            "description": "Demo",
+            "link": "Demo"
+        },
+        "2": {
+            "description": "Demo",
+            "link": "Demo"
+        },
+        "3": {
+            "description": "Demo",
+            "link": "Demo"
+        }
+    }
+}
