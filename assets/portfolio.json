@@ -7,7 +7,7 @@
         "CS Undergrad.",
         "Software Developer."
     ],
-    "resume_download_link": "",
+    "resume_download_link": "https://drive.google.com/file/d/1ycFIYPHbIe0t5Y3tDCIlAKm89jztb5LH/view?usp=share_link",
     "social_media": {
         "1": [
             "https://github.com/virendracarpenter/",
@@ -35,24 +35,29 @@
         "open_for_opportunities": "Yes",
         "picture": "picture.jpg"
     },
-    "about": "A Passionate Software Developer 🚀 | App & Web Developer 📝 | Open Source Enthusiast|",
+    "about": "A Passionate Software Developer 🚀 | Web & App Developer 📝 | Open Source Enthusiast|",
     "bio": "A Motivated student completing a computer science degree from Institute of Engineering and Science, IPS Academy with decent academic and practical exposure record. Well-organized and collaborative team player with strong communication and analytical abilities, dedicated to improving skills through hands-on learning and development work.",
     "what_i_do": {
         "tools": [
-            "linux.png",
-            "c.png",
-            "cpp.png",
+            "c++.png",
+            "flutter.png",
             "java.png",
             "python.png",
-            "bash.png",
-            "git.png"
+            "git.png",
+            "vim.png",
+            "docker.png",
+            "linux.png",
+            "shellscript.png",
+            "firebase.png",
+            "mysql.png",
+            "aws.png"
         ],
         "proficiency": [
             "C/C++/Java/Python--90",
             "Flutter--80",
-            "HTML5/CSS3/Bootstrap--90",
-            "PHP/JavaScript/ReactJs--75",
-            "MySQL/MongoDB--85"
+            "HTML5/CSS3/Bootstrap--60",
+            "PHP/JavaScript/ReactJs--50",
+            "MySQL/MariaDB--85"
         ]
     },
     "education": {
@@ -83,18 +88,18 @@
     },
     "experience": {
         "1": {
-            "name": "TEQIP",
-            "role": "Summer Internship Training Program",
-            "period": "May, 2020 - May, 2020",
-            "description": "In this program, I am undergone in the learning of Linux, AWS and DevOps.",
-            "image_name": "teqip.png"
+            "name": "Open Source",
+            "role": "Contributor",
+            "period": "December, 2020 - Present",
+            "description": "Completed Hacktoberfest'21 & 22",
+            "image_name": "opensource.png"
         },
         "2": {
-            "name": "TEQIP",
-            "role": "Summer Internship Training Program",
-            "period": "May, 2020 - May, 2020",
-            "description": "In this program, I am undergone in the learning of Linux, AWS and DevOps.",
-            "image_name": "teqip.png"
+            "name": "Code Compilers",
+            "role": "Lead",
+            "period": "September, 2022 - Present",
+            "description": "Code Compilers is a College Coding and Development focused Club.",
+            "image_name": "cc.png"
         },
         "3": {
             "name": "TEQIP",
@@ -106,36 +111,42 @@
     },
     "projects": {
         "1": {
-            "name": "Demo",
-            "tech_stack_used": "Demo",
-            "description": "Demo",
-            "general_or_github_link": "Demo"
+            "name": "Live Video Streaming App",
+            "tech_stack_used": "Flutter, Dart, Go, Agora and Firebase.",
+            "description": "App for doing Live Video Streaming with chat feature. Can run on Android, IOS, Windows, Linux and Web.",
+            "general_or_github_link": "https://github.com/virendracarpenter"
         },
         "2": {
-            "name": "Demo",
-            "tech_stack_used": "Demo",
-            "description": "Demo",
-            "general_or_github_link": "Demo"
+            "name": "Expenses App",
+            "tech_stack_used": "Flutter, Dart and Firebase",
+            "description": "App to Manage Personal Expenses using Flutter, Dart and Firebase.",
+            "general_or_github_link": "https://github.com/virendracarpenter/expenses-app"
         },
         "3": {
-            "name": "Demo",
-            "tech_stack_used": "Demo",
-            "description": "Demo",
-            "general_or_github_link": "Demo"
+            "name": "Movie Ticket Booking",
+            "tech_stack_used": "Qt6, QtCreator, C++",
+            "description": "A Move Ticket Booking Desktop Application build using Qt framework.",
+            "general_or_github_link": "https://github.com/virendracarpenter/QT_Project_On_Movie_Ticket_Booking"
+        },
+        "4": {
+            "name": "Code Compilers",
+            "tech_stack_used": "hashnode",
+            "description": "A Bloging website focused on coding and development articles.",
+            "general_or_github_link": "https://codecompilers.club"
         }
     },
     "achievements": {
         "1": {
-            "description": "Demo",
+            "description": "Academic Student Coordinator in College (07/2022 - Present)",
             "link": "Demo"
         },
         "2": {
-            "description": "Demo",
+            "description": "Campus Ambassador internship at Techfest, IIT Bombay (07/2020 - 10/2020)",
             "link": "Demo"
         },
         "3": {
-            "description": "Demo",
-            "link": "Demo"
+            "description": "Participated in Hacktoberfest 2021 & 2022",
+            "link": "https://www.holopin.io/@virendracarpenter"
         }
     }
 }
