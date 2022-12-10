@@ -14,7 +14,7 @@ class CustomTheme extends ChangeNotifier {
       scaffoldBackgroundColor: Colors.white,
       hoverColor: const Color(0xFF1a4b6e).withOpacity(0.225),
       cardColor: const Color(0xFF519259),
-      primaryColor: const Color(0xFF064635),
+      primaryColor: const Color(0xff6d72c3),
       primaryColorDark: Colors.white54,
       primaryColorLight: Colors.black,
     );
@@ -22,11 +22,11 @@ class CustomTheme extends ChangeNotifier {
 
   static ThemeData get darkTheme {
     return ThemeData(
-      scaffoldBackgroundColor: const Color(0xFF171c28),
-      hoverColor: const Color(0xFF1a4b6e),
-      cardColor: const Color(0xFF10576e),
-      primaryColor: const Color(0xFF02bbe5),
-      primaryColorDark: const Color(0xFF6c7582),
+      scaffoldBackgroundColor: const Color(0xff272d2d),
+      hoverColor: const Color(0xff6d72c3),
+      cardColor: const Color(0xff6d72c3),
+      primaryColor: const Color(0xff23ce6b),
+      primaryColorDark: const Color(0xff6d72c3),
       primaryColorLight: Colors.white,
     );
   }

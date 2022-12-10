@@ -67,7 +67,7 @@ class _EducationDesktopState extends State<EducationDesktop> {
                 ? Theme.of(context).cardColor
                 : Theme.of(context).primaryColor,
             borderRadius: BorderRadius.circular(
-              5.0,
+              5,
             ),
           ),
           child: Column(
